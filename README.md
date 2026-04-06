@@ -1,0 +1,1 @@
+The Key Press Visualizer is a simple Python-based desktop application that demonstrates real-time keyboard event detection using a graphical user interface. It is designed for educational and cybersecurity awareness purposes, helping users understand how keyboard inputs are captured and processed.
